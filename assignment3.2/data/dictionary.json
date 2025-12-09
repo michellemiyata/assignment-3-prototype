@@ -1,0 +1,27 @@
+[
+  {
+    "word": "accessibility",
+    "definition": "The quality of being easily understood or appreciated; the design of products, devices, services, or environments for people with disabilities.",
+    "example": "Web accessibility is crucial for inclusive design."
+  },
+  {
+    "word": "transcription",
+    "definition": "A written or printed representation of something.",
+    "example": "The transcription of the lecture was accurate."
+  },
+  {
+    "word": "interface",
+    "definition": "A point where two systems, subjects, organizations, etc., meet and interact.",
+    "example": "The user interface is intuitive and easy to use."
+  },
+  {
+    "word": "glassmorphism",
+    "definition": "A design trend that emphasizes light or dark objects, placed on top of colorful backgrounds.",
+    "example": "The app uses glassmorphism to create a modern look."
+  },
+  {
+    "word": "algorithm",
+    "definition": "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.",
+    "example": "The search algorithm ranks results by relevance."
+  }
+]
